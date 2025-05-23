@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+About 
+I’m currently working as a Programmer Analyst at Cognizant, where I primarily work with Advanced Excel for business analysis and reporting.
+With a strong foundation in data handling, I’ve recently upskilled in SQL, Power BI, and Python to transition into a full-fledged Data Analyst role.
+Passionate about data analytics, visualization, and business intelligence.
