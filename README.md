@@ -1,16 +1,12 @@
 ## Hi there 👋 I'm Nilanjana Dutta !
 
-<!--
-**nilanjana2008/nilanjana2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Analyst | Programmer Analyst at Cognizant
+Welcome to my GitHub! I’m currently working as a Programmer Analyst at Cognizant, where I primarily work with Advanced Excel for business analysis and reporting. With a strong foundation in data handling, I’ve recently upskilled in SQL, Power BI, and Python to transition into a full-fledged Data Analyst role.
 
-Here are some ideas to get you started:
+🔧 Skills & Tools
+Data Analysis: Excel (Advanced), SQL, Python (Pandas, NumPy)
 
-- 🔭 I’m currently working  as a Programmer Analyst at Cognizant, where I primarily work with Advanced Excel for business analysis and reporting .
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Visualization: Power BI, Matplotlib, Seaborn
+
+Databases: MySQL, SQL Server
+
