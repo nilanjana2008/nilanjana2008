@@ -1,2 +1,11 @@
 ## Hi there 👋 I'm Nilanjana Dutta !
 
+Aspiring Data Analyst | Transforming Raw Data into Actionable Insights
+
+🌟 About Me
+Welcome to my GitHub! I’m currently working as a Programmer Analyst at Cognizant, where I primarily work with Advanced Excel for business analysis and reporting. With a strong foundation in data handling, I’ve recently upskilled in SQL, Power BI, and Python to transition into a full-fledged Data Analyst role.
+
+🔄 Current Focus
+Mastering Data Analytics & Visualization.
+Building projects that analyze trends, detect patterns, and drive business decisions.
+Exploring Power BI, SQL, and Python(Numpy,Pandas).
