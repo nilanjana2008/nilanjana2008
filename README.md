@@ -15,5 +15,12 @@ I’m currently working as a Programmer Analyst at Cognizant, where I primarily 
 - Building projects that analyze trends, detect patterns, and drive business decisions.
 - Exploring Power BI, SQL, and Python libraries like numpy,pandas & matplotlib for analysis.
 
+---
+
+## 🛠 **Tech Stack & Tools**
+![Excel](https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png)
+
+
+
 
 
