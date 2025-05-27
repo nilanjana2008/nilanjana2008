@@ -18,7 +18,10 @@ I’m currently working as a Programmer Analyst at Cognizant, where I primarily 
 ---
 
 ## 🛠 **Tech Stack & Tools**
-![Excel](https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](c:\Users\HP\Downloads\excel.png)
 
 
 
